@@ -9,6 +9,7 @@ const Sidebar = () => {
       <div className="profile">
       <img src={profile} alt="Profile" />
         <h2>Aditya Kumar Sahoo</h2>
+        
         <Port />  
       </div>
       <div className="social-icons">
