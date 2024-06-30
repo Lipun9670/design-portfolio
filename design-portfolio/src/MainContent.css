@@ -1,0 +1,47 @@
+.profile-section {
+    margin-left: 200px;
+    padding: 50px;
+    box-sizing: border-box;
+    background: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   color: black;
+  }
+  
+  .profile-image{
+    width: 500px;
+    height:200vh;
+  }
+  
+
+  /*.profile-section {
+    position: relative;
+    text-align: center;
+    color:black;
+  }*/
+  
+  .profile-image {
+    width: 70%;
+    height:200vh
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+  
+    
+  }
+
+  
+  
+  
+  .text-overlay p {
+    font-size: 2em;
+  }
+  
